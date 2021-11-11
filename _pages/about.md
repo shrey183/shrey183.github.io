@@ -14,5 +14,5 @@ Before coming to Zürich, I did my undegraduate degree at École Polytechnique i
 
 Preprints
 ===
-1. Stability of Hardy Littlewood Sobolev Inequality under Bubbling[link](https://arxiv.org/abs/2109.12610)
-2.  Existence of two-solitary waves with logarithmic distance for the nonlinear Klein-Gordon equation[link](https://arxiv.org/abs/2010.04852)
+1. Stability of Hardy Littlewood Sobolev Inequality under Bubbling [link](https://arxiv.org/abs/2109.12610)
+2.  Existence of two-solitary waves with logarithmic distance for the nonlinear Klein-Gordon equation [link](https://arxiv.org/abs/2010.04852)
