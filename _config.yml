@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shrey Aryan Personal Webpage"
+title                    : "Shrey Aryan's Personal Webpage"
 title_separator          : "-"
 name                     : &name "Shrey Aryan"
 description              : &description "personal description"
