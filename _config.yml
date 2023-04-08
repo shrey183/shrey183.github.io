@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Shrey Aryan"
-  avatar           : "profile_pic.HEIC"
+  avatar           : "test.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Zurich"
   employer         :
