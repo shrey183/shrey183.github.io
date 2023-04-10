@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a math graduate student at MIT. My research interests include PDEs, Geometric Analysis and Optimal Transport. 
 
-Before coming to MIT, I was a master's student at ETH Zürich where I was mentored by Alessio Figalli. I did my undegraduate degree at École Polytechnique where I was mentored by Yvan Martel.
+Before coming to MIT, I was a master's student at ETH Zürich where I was advised by Alessio Figalli and my undegrad degree at École Polytechnique.
 
 
 Preprints
