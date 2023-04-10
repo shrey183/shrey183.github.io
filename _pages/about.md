@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a math graduate student at MIT. My research interests include PDEs, Geometric Analysis and Optimal Transport. 
 
-Before coming to MIT, I did my master's at ETH Zürich and undegrad at École Polytechnique. 
+Before coming to MIT, I did my master's at ETH Zürich and undergrad at École Polytechnique. 
 
 Preprints
 ===
