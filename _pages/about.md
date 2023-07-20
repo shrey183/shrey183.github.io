@@ -7,13 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a math graduate student at MIT. My research interests include PDEs, Geometric Analysis and Optimal Transport. 
+I am a math graduate student at MIT. My research interests include Geometric Analysis, PDEs, and Optimal Transport. 
 
 Before coming to MIT, I did my master's at ETH Zürich and undergrad at École Polytechnique. 
 
 Preprints
 ===
-1. Stability of Hardy Littlewood Sobolev Inequality under Bubbling. [link](https://arxiv.org/abs/2109.12610)
-2. Existence of two-solitary waves with logarithmic distance for the nonlinear Klein-Gordon equation. [link](https://arxiv.org/abs/2010.04852)
+3. Trend to equilibrium for flows with random diffusion (with Matthew Rosenzweig and Gigliola Staffilani). [link](https://arxiv.org/abs/2307.03147).
+2. Stability of Hardy Littlewood Sobolev Inequality under Bubbling. [link](https://arxiv.org/abs/2109.12610)
+1. Existence of two-solitary waves with logarithmic distance for the nonlinear Klein-Gordon equation. [link](https://arxiv.org/abs/2010.04852)
 
 
