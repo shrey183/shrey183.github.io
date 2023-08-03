@@ -4,4 +4,7 @@ main:
   - title: "CV"
     url: /files/CV.pdf
 
+  - title: "Friends"
+    url: /_pages/friends
+
 
