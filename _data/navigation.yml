@@ -5,6 +5,6 @@ main:
     url: /files/CV.pdf
 
   - title: "Friends"
-    url: /_pages/friends
+    url: /friends/
 
 
