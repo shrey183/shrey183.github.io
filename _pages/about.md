@@ -16,7 +16,7 @@ Preprints
 6. Soliton resolution for the energy-critical nonlinear heat equation in the radial case. [link](https://shrey183.github.io/files/NLH_D13.pdf).
 5. Concavity for elliptic and parabolic equations in complex projective space (with Michael Law). [link](https://arxiv.org/abs/2403.16783).
 4. Trend to equilibrium for flows with random diffusion (with Matthew Rosenzweig and Gigliola Staffilani), to appear in IMRN. [link](https://arxiv.org/abs/2307.03147).
-3. Overdetermined problems with homogeneous weights in the Euclidean plane (with Serena Dipierro and Enrico Valdinoci). [link](https://shrey183.github.io/files/od.pdf)
+3. Overdetermined problems with homogeneous weights in the Euclidean plane (with Serena Dipierro and Enrico Valdinoci). [link](https://shrey183.github.io/files/od_2.pdf)
 2. Stability of Hardy Littlewood Sobolev Inequality under Bubbling, Calc. Var. Partial Differential Equations 62 (2023), no.8, Paper No. 223., 	[link](https://arxiv.org/abs/2109.12610).
 1. Existence of two-solitary waves with logarithmic distance for the nonlinear Klein-Gordon equation, Commun. Contemp. Math. 24, 2050091 (2020), [link](https://arxiv.org/abs/2010.04852).
 
