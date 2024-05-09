@@ -13,7 +13,7 @@ Before coming to MIT, I did my master's at ETH Zürich where I was advised by Pr
 
 Preprints
 ===
-6. Soliton resolution for the energy-critical nonlinear heat equation in the radial case. [link](https://shrey183.github.io/files/NLH_D13.pdf).
+6. Soliton resolution for the energy-critical nonlinear heat equation in the radial case. [link](https://shrey183.github.io/files/NLH_D14.pdf).
 5. Concavity for elliptic and parabolic equations in complex projective space (with Michael Law). [link](https://arxiv.org/abs/2403.16783).
 4. Trend to equilibrium for flows with random diffusion (with Matthew Rosenzweig and Gigliola Staffilani), to appear in IMRN. [link](https://arxiv.org/abs/2307.03147).
 3. Overdetermined problems with homogeneous weights in the Euclidean plane (with Serena Dipierro and Enrico Valdinoci). [link](https://shrey183.github.io/files/od_2.pdf)
