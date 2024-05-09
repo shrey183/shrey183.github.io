@@ -13,7 +13,7 @@ Before coming to MIT, I did my master's at ETH Zürich where I was advised by Pr
 
 Preprints
 ===
-5. Soliton resolution for the energy-critical nonlinear heat equation in the radial case. [link](https://shrey183.github.io/files/NLH_D.pdf).
+5. Soliton resolution for the energy-critical nonlinear heat equation in the radial case. [link](https://shrey183.github.io/files/NLH_D13.pdf).
 4. Concavity for elliptic and parabolic equations in complex projective space (with Michael Law). [link](https://arxiv.org/abs/2403.16783).
 3. Trend to equilibrium for flows with random diffusion (with Matthew Rosenzweig and Gigliola Staffilani), to appear in IMRN. [link](https://arxiv.org/abs/2307.03147).
 2. Stability of Hardy Littlewood Sobolev Inequality under Bubbling, Calc. Var. Partial Differential Equations 62 (2023), no.8, Paper No. 223., 	[link](https://arxiv.org/abs/2109.12610).
