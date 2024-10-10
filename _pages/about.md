@@ -13,6 +13,7 @@ Before coming to MIT, I did my master's at ETH Zürich where I was advised by Pr
 
 Preprints
 ===
+7. Stability of Wu's logarithmic Sobolev inequality via the Poisson-Föllmer process (with Pablo López-Rivera and Yair Shenfeld). [[pdf]] (https://arxiv.org/pdf/2410.06117).
 6. Soliton resolution for the energy-critical nonlinear heat equation in the radial case. [[pdf]](https://shrey183.github.io/files/NLH_D14.pdf).
 5. Concavity for elliptic and parabolic equations in complex projective space (with Michael Law). [[pdf]](https://arxiv.org/abs/2403.16783).
 4. Trend to equilibrium for flows with random diffusion (with Matthew Rosenzweig and Gigliola Staffilani), to appear in IMRN. [[pdf]](https://arxiv.org/abs/2307.03147).
