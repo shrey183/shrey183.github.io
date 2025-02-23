@@ -13,6 +13,7 @@ Before coming to MIT, I did my master's at ETH Zürich where I was advised by Pr
 
 Preprints
 ===
+9. Entropic Selection Principle for Monge's Optimal Transport (with Promit Ghosal).
 8. Free Energy Minimizers With Radial Densities: Classification And Quantitative Stability (with Lauro Silini). [[pdf]](https://arxiv.org/abs/2412.03997).
 7. Stability of Wu's logarithmic Sobolev inequality via the Poisson-Föllmer process (with Pablo López-Rivera and Yair Shenfeld). [[pdf]](https://arxiv.org/pdf/2410.06117).
 6. Soliton resolution for the energy-critical nonlinear heat equation in the radial case. [[pdf]](https://shrey183.github.io/files/NLH_D14.pdf).
