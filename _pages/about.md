@@ -13,7 +13,7 @@ Before coming to MIT, I did my master's at ETH Zürich where I was advised by Pr
 
 Preprints
 ===
-10. Soliton Resolution Conjecture For The Energy-Critical Nonlinear Heat Flow. [[pdf]](https://shrey183.github.io/files/nonradial nlh v2.pdf).
+10. Continuous-in-Time Bubbling and Progress Towards Soliton Resolution Conjecture for the Energy-Critical Nonlinear Heat Flow. [[pdf]](https://shrey183.github.io/files/non-radial nlh v4.pdf).
 9. Entropic Selection Principle for Monge's Optimal Transport (with Promit Ghosal). [[pdf]](https://arxiv.org/abs/2502.16370).
 8. Free Energy Minimizers With Radial Densities: Classification And Quantitative Stability (with Lauro Silini). [[pdf]](https://arxiv.org/abs/2412.03997).
 7. Stability of Wu's logarithmic Sobolev inequality via the Poisson-Föllmer process (with Pablo López-Rivera and Yair Shenfeld). [[pdf]](https://arxiv.org/pdf/2410.06117).
