@@ -16,8 +16,8 @@ Preprints
 10. Continuous in time bubbling and Soliton Resolution for Non-negative Solutions of the Energy-Critical Heat Flow. [[pdf]](https://arxiv.org/abs/2512.18840).
 9. Entropic Selection Principle for Monge's Optimal Transport (with Promit Ghosal). [[pdf]](https://arxiv.org/abs/2502.16370).
 8. Free Energy Minimizers With Radial Densities: Classification And Quantitative Stability (with Lauro Silini). [[pdf]](https://arxiv.org/abs/2412.03997).
-7. Stability of Wu's logarithmic Sobolev inequality via the Poisson-Föllmer process (with Pablo López-Rivera and Yair Shenfeld), to appear in Electronic Communications in Probability. [[pdf]](https://arxiv.org/pdf/2410.06117).
-6. Soliton resolution for the energy-critical nonlinear heat equation in the radial case. [[pdf]](https://shrey183.github.io/files/NLH_D14.pdf).
+7. Soliton resolution for the energy-critical nonlinear heat equation in the radial case, to appear in Analysis & PDE. [[pdf]](https://arxiv.org/abs/2405.06005).
+6. Stability of Wu's logarithmic Sobolev inequality via the Poisson-Föllmer process (with Pablo López-Rivera and Yair Shenfeld), to appear in Electronic Communications in Probability. [[pdf]](https://arxiv.org/pdf/2410.06117).
 5. Concavity for elliptic and parabolic equations in locally symmetric spaces with nonnegative curvature (with Michael Law), to appear in Calc. Var. Partial Differential Equations. [[pdf]](https://arxiv.org/abs/2403.16783).
 4. Trend to equilibrium for flows with random diffusion (with Matthew Rosenzweig and Gigliola Staffilani), to appear in IMRN. [[pdf]](https://arxiv.org/abs/2307.03147).
 3. Overdetermined problems with homogeneous weights in the Euclidean plane (with Serena Dipierro and Enrico Valdinoci). [[pdf]](https://shrey183.github.io/files/od_2.pdf)
