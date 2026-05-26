@@ -13,6 +13,7 @@ Before coming to MIT, I did my master's at ETH Zürich where I was advised by Pr
 
 Preprints
 ===
+12. Spectral Obstructions to Contracting Transport Maps on Curved Spaces. [[pdf]](https://arxiv.org/abs/2605.24705).
 11. On the Calabi-Yau Conjectures for Minimal Hypersurfaces in Higher Dimensions (with Alexander McWeeney). [[pdf]](https://arxiv.org/abs/2602.16048).
 10. Continuous in time bubbling and Soliton Resolution for Non-negative Solutions of the Energy-Critical Heat Flow. [[pdf]](https://arxiv.org/abs/2512.18840).
 9. Entropic Selection Principle for Monge's Optimal Transport (with Promit Ghosal). [[pdf]](https://arxiv.org/abs/2502.16370).
