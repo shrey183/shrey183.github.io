@@ -16,7 +16,7 @@ Before coming to MIT, I completed my master's degree at ETH Zürich, where I was
 
 ### Geometric Analysis
 
-1. Topological Bernstein Theorems for Minimal Hypersurfaces in R^4 confined in space (with Alexander McWeeney). [[pdf]](https://arxiv.org/pdf/2607.05755)
+1. Topological Bernstein Theorems for Minimal Hypersurfaces in $\mathbb{R}^4$ confined in space (with Alexander McWeeney). [[pdf]](https://arxiv.org/pdf/2607.05755)
 
 2. On the Calabi–Yau Conjectures for Minimal Hypersurfaces in Higher Dimensions (with Alexander McWeeney).[[pdf]](https://arxiv.org/pdf/2602.16048)
 
