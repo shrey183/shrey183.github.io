@@ -12,7 +12,7 @@ I am a Ph.D. student in mathematics at MIT, advised by Prof. Tobias Colding. My 
 
 Before coming to MIT, I completed my master's degree at ETH Zürich, where I was advised by Prof. Alessio Figalli, and my undergraduate studies at École Polytechnique, where I was advised by Prof. Yvan Martel.
 
-## Selected preprints
+## Recent Preprints
 
 ### Geometric Analysis
 
