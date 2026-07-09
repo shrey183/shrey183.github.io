@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year graduate student in mathematics at MIT, advised by Prof. Tobias Colding. My research interests include geometric analysis, nonlinear PDE, and optimal transport.
+I am a fourth year graduate student in mathematics at MIT, advised by Prof. Tobias Colding. My research interests include geometric analysis, nonlinear PDEs, and optimal transport.
 
 Before coming to MIT, I completed my master's degree at ETH Zürich, where I was advised by Prof. Alessio Figalli, and my undergraduate studies at École Polytechnique, where I was advised by Prof. Yvan Martel.
 
