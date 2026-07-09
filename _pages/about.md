@@ -42,4 +42,4 @@ Before coming to MIT, I completed my master's degree at ETH Zürich, where I was
    with Promit Ghosal.  
    [[pdf]](https://arxiv.org/pdf/2502.16370)
 
-See [here](/publications/) for a complete publication list.
+See [here](/publications/) for a complete publications list.
