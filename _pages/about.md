@@ -18,7 +18,7 @@ Before coming to MIT, I completed my master's degree at ETH Zürich under the su
 
 1. Topological Bernstein Theorems for Minimal Hypersurfaces in $\mathbb{R}^4$ confined in space (with Alexander McWeeney). [[pdf]](https://arxiv.org/pdf/2607.05755)
 
-2. On the Calabi–Yau Conjectures for Minimal Hypersurfaces in Higher Dimensions (with Alexander McWeeney).[[pdf]](https://arxiv.org/pdf/2602.16048)
+2. On the Calabi–Yau Conjectures for Minimal Hypersurfaces in Higher Dimensions (with Alexander McWeeney). [[pdf]](https://arxiv.org/pdf/2602.16048)
 
 ### Nonlinear PDEs
 
@@ -30,6 +30,8 @@ Before coming to MIT, I completed my master's degree at ETH Zürich under the su
 
 1. Spectral Obstructions to Contracting Transport Maps on Curved Spaces. [[pdf]](https://arxiv.org/pdf/2605.24705)
 
-2. Entropic Selection Principle for Monge's Optimal Transport (with Promit Ghosal). [[pdf]](https://arxiv.org/pdf/2502.16370)
+2. Free energy minimizers with radial densities: classification and quantitative stability (with Lauro Silini). [[pdf]](https://arxiv.org/pdf/2412.03997)
+
+3. Entropic Selection Principle for Monge's Optimal Transport (with Promit Ghosal). [[pdf]](https://arxiv.org/pdf/2502.16370)
 
 See [here](/publications/) for a complete publications list.
