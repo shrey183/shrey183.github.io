@@ -14,7 +14,7 @@ Before coming to MIT, I completed my master's degree at ETH Zürich under the su
 
 Preprints
 ===
-14. Non-uniqueness of geodesic limits\\ and a question of Grayson and Gage (with Tang-Kai Lee). [[pdf]](https://arxiv.org/pdf/2608.04855).
+14. Non-uniqueness of geodesic limits and a question of Grayson and Gage (with Tang-Kai Lee). [[pdf]](https://arxiv.org/pdf/2608.04855).
 13. Calabi-Yau Conjecture for Minimal Hypersurfaces in $\mathbb{R}^4$ with bounded geometry (with Alexander McWeeney and Giuseppe Tinaglia). [[pdf]](https://arxiv.org/abs/2608.04364).
 12. Topological Bernstein Theorems for Minimal Hypersurfaces in $\mathbb{R}^4$ Confined in Space (with Alexander McWeeney). [[pdf]](https://arxiv.org/pdf/2607.05755).
 11. Spectral Obstructions to Contracting Transport Maps on Curved Spaces. [[pdf]](https://arxiv.org/abs/2605.24705).
