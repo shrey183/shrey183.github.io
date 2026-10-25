@@ -12,6 +12,8 @@ I am a fifth year graduate student in mathematics at MIT, advised by Prof. Tobia
 
 Before coming to MIT, I completed my master's degree at ETH Zürich under the supervision of Prof. Alessio Figalli, and my undergraduate studies at École Polytechnique under the supervision of Prof. Yvan Martel.
 
+I will be on the academic job market for postdoctoral positions starting in Fall 2027.
+
 
 Preprints
 ===
